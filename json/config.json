@@ -1,0 +1,8 @@
+{
+    "token": "",
+    "GUILD_ID": "", 
+    "SUCCESS_EMOJI": "✅",
+    "FAILURE_EMOJI": "❌",
+    "ERROR_LOG_CHANNEL": "",
+    "mongooseConnectionString": ""
+}
